@@ -1,0 +1,15 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+.logo-med{
+    width:290px;
+    height: auto;
+}
+@media all and (max-width:300px){
+    .logo-med{
+        width:180px;
+    }
+}

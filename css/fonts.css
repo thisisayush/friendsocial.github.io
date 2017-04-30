@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Passion+One:700');
+
+h1{
+    font-family: 'Passion One', cursive;
+    font-weight: 700;
+}
+h4{
+    font-family: 'Pacifico', cursive;
+}
+li{
+    font-family: 'Pacifico', cursive;
+    font-size: 14px;
+    padding:5px;
+}
